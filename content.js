@@ -17,7 +17,7 @@ window.SITE_CONTENT = {
       description: "Desain daftar jasa untuk publikasi dengan fokus pada hierarki informasi jasa agar mudah dipahami/dibaca oleh masyarakat. Proyek ini sudah berizin oleh pemilik ",
       tools: ["Canva"],
       deliverable: "Daftar Harga/jasa · PNG / PDF",
-      cover: "../assets/dftrhrg.webp", // Contoh setelah file ada: "assets/projects/poster-kegiatan.webp"
+      cover: "assets/dftrhrg.webp", // Contoh setelah file ada: "assets/projects/poster-kegiatan.webp"
       coverAlt: "Daftar harga dengan judul utama, harga, produk dan informasi pembayaran",
       previews: [{ type: "image", src: "../assets/dftrhrg.webp", alt: "Poster lengkap" }], // Contoh: [{ type: "image", src: "assets/projects/poster-kegiatan.webp", alt: "Poster lengkap" }]
       projectUrl: "https://drive.google.com/file/d/1TVpA48dob61vX0rdPoDUU7VcrVlwiAPC/view?usp=sharing", // URL HTTPS publik (Canva/Drive/YouTube) atau file lokal. Cek izin akses.
@@ -68,7 +68,7 @@ window.SITE_CONTENT = {
       description: "Dump proyek: merapikan margin, heading, daftar isi, penomoran halaman, dan konsistensi format laporan. Seluruh isi pada contoh menggunakan teks dummy; tidak ada identitas pelanggan.",
       tools: ["Microsoft Word"],
       deliverable: "Dokumen terformat · DOCX / PDF",
-      cover: "../assets/DUMP.webp",
+      cover: "assets/DUMP.webp",
       coverAlt: "Dump Laporan Akademik dengan teks dummy",
       previews: [ { type: "image", src: "../assets/DUMP.webp", alt: "Halaman laporan dengan teks dummy" } ],
       projectUrl: "https://docs.google.com/document/d/1DesJVm0c1ZWBfDGVoRaDdRaMDsVGpifw/edit?usp=sharing&ouid=107332877542766645073&rtpof=true&sd=true",
