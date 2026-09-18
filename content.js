@@ -4,7 +4,7 @@
  * Jangan isi nomor orang lain atau menyebut contoh di bawah sebagai proyek/ulasan asli.
  */
 window.SITE_CONTENT = {
-  whatsappNumber: "62856462044", // Isi nomor milikmu: kode negara + nomor, hanya angka, tanpa tanda + / spasi.
+  whatsappNumber: "6285646762044", // Isi nomor milikmu: kode negara + nomor, hanya angka, tanpa tanda + / spasi.
   whatsappGreeting: "Hi Min Kealour, saya ingin bertanya tentang layanan yang tersedia.",
   telegramUsername: "hhrraz", // Isi username Telegram milikmu, boleh dengan atau tanpa awalan @.
   projects: [
